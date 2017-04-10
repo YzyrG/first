@@ -1,3 +1,10 @@
 xiao bai start!
 I want to do some funning things in CS.
-there are some books I will learning.
+there are some books I will learning:
+1 CSAPP
+2 Discrete mathmatics
+3 Algorithms forth Edition
+4 Computer Organization The hardware/software Interface
+5 Opertion System
+
+
