@@ -1,10 +1,16 @@
 xiao bai start!
-I want to do some funning things in CS.
+I want to be a good  programmer.
 there are some books I will learning:
 1 CSAPP
 2 Discrete mathmatics
 3 Algorithms forth Edition
 4 Computer Organization The hardware/software Interface
 5 Opertion System
+I have collected some good IT website to learning, such as:
+Coursera Udacity Stackoverflow Github and ÁÎÑ©·åµÄ¹Ù·½ÍøÕ¾
+BUT The most important thing is : do!
+My goal before I finish my study in collage is :
+Building a person website and make a funning phone app.
+Building a opertion system.
 
 
